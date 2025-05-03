@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+gemini_pong.egg-info/PKG-INFO
+gemini_pong.egg-info/SOURCES.txt
+gemini_pong.egg-info/dependency_links.txt
+gemini_pong.egg-info/entry_points.txt
+gemini_pong.egg-info/requires.txt
+gemini_pong.egg-info/top_level.txt

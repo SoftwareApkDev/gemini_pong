@@ -1,0 +1,2 @@
+[console_scripts]
+gemini_pong = gemini_pong.gemini_pong:main
